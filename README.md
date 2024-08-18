@@ -1,1 +1,1 @@
-# Bear-Cleassifcation
+# Bear-Classifcation
